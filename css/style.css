@@ -1,0 +1,20 @@
+#countdown {
+color:blue;
+padding: 10 px;
+border: 1px solid;
+border-radius: 5px;
+}
+
+#cards{
+display: none;
+
+}
+
+#loader{
+    position: fixed;
+    top:50%;
+    left: 50%;
+    transform : translate(-50%, -50%);
+   
+   
+   }
